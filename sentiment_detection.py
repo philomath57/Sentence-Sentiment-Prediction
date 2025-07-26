@@ -1,6 +1,3 @@
-!pip install joblib
-!pip install nltk
-
 import streamlit as st
 import joblib
 import nltk
